@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="https://github.com/sfrey25/sfrey25/blob/main/Ocean_banner.png?raw=true" width="100%" height="auto">
+
 
 
 ## Hi there 👋
+
+<h2 style="color:#1E90FF;">Hi there 👋</h2>
+
 
