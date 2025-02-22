@@ -20,8 +20,36 @@ Here are some ideas to get you started:
 
 
 
-## Hi there 👋
+## 🌊 Hi, I'm Svenja - Climate Science & Oceanography Enthusiast 🌍 
+Welcome to my corner of GitHub!
 
-<h2 style="color:#1E90FF;">Hi there 👋</h2>
+I'm passionate about:
+
+- 🌍 Climate modeling, ocean dynamics and biogeochemical cycles
+- 🧑‍💻 Data-driven research in **climate & ocean science** 
+- 📊 Scientific computing in **Python & Matlab**
+
+
+📫 Feel free to connect or check out my projects! (I'm currently working on getting some of my projects up here.)
+
+___
+### Projects & Studying
+
+I am currently pursuing a M.Sc. in **Climate Change - The physical climate system** from the University of Copenhagen.
+There, I get to do loads of interesting projects such as currently:
+
+- 🧊 Investigating the Carbon Cycle of the Ocean during the last glacial using the CESM
+- 🐟 Studying Oxygen Minimum Zones in a warming climate
+
+---
+### Want to know more?
+
+Here you can download my Resume!
+
+
+
+
+
+
 
 
