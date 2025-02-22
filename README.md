@@ -38,13 +38,15 @@ ___
 I am currently pursuing a M.Sc. in **Climate Change - The physical climate system** from the University of Copenhagen.
 There, I get to do loads of interesting projects such as currently:
 
-- 🧊 Investigating the Carbon Cycle of the Ocean during the last glacial using the CESM
-- 🐟 Studying Oxygen Minimum Zones in a warming climate
+- 🧊 Investigating the carbon cycle of the ccean during the last glacial using the CESM
+- 🐟 Studying oxygen minimum zones in a warming climate
 
 ---
 ### Want to know more?
 
-Here you can download my Resume!
+Here you can [download my resume!](https://raw.githubusercontent.com/sfrey25/sfrey25/main/CV_Svenja.pdf)
+
+
 
 
 
